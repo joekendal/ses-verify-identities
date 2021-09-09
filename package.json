@@ -1,8 +1,8 @@
 {
-  "name": "@seeebiii/ses-verify-identities",
+  "name": "@joekendal/ses-verify-identities",
   "repository": {
     "type": "git",
-    "url": "https://github.com/seeebiii/ses-verify-identities"
+    "url": "https://github.com/joekendal/ses-verify-identities"
   },
   "scripts": {
     "clobber": "npx projen clobber",
